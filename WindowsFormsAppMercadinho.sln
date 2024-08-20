@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppMercadinho", "WindowsFormsAppMercadinho\WindowsFormsAppMercadinho.csproj", "{5C87BDA5-4C0F-43AA-9206-D03C47271308}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C87BDA5-4C0F-43AA-9206-D03C47271308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C87BDA5-4C0F-43AA-9206-D03C47271308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C87BDA5-4C0F-43AA-9206-D03C47271308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C87BDA5-4C0F-43AA-9206-D03C47271308}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA680B44-669D-4EE9-83B1-C5AAE4AF2ECE}
+	EndGlobalSection
+EndGlobal
